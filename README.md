@@ -6,25 +6,17 @@
 </div>
 
 # 📚Technology Stack
-##### ㆍLanguage
 <div>
   <img src="https://img.shields.io/badge/JAVA-red?style=square&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=square&logo=Oracle&logoColor=white"/>
-</div>
-
-##### ㆍFramework & Library
-<div>
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=square&logo=spring-boot&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/JQUERY-0769AD?style=square&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=square&logo=vue.js&logoColor=white"/>
-</div>
-
-##### ㆍTool
-<div>
   <img src="https://img.shields.io/badge/ECLIPSE_IDE-2C2255?style=square&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=square&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/INTELLIJ_IDEA-000000?style=square&logo=intellijidea&logoColor=F7295D"/>
