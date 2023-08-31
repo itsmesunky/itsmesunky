@@ -6,6 +6,7 @@
  </a>
 </div>
 
+
 # 📚Technology Stack
 <div>
   <img src="https://img.shields.io/badge/JAVA-red?style=square&logoColor=white"/>
@@ -38,6 +39,13 @@
 # 🙋‍♂️Introduction
 <div>
   <p style="font-family: 'Nanum Gothic'">
-    안녕하세요!
+    안녕하세요! Web 공간을 무한한 가능성으로 채우고자 하는 웹 개발자, 썬키입니다.
+    <br>
+    코드의 힘을 활용하여 새로운 아이디어를 현실로 만드는 것에 흥미와 열정을 가지고 있습니다.
+    <br>
+    <br>
+    사용자 중심의 인터페이스를 디자인하며, 기술적인 문제에 도전하고 해결하는 것을 즐깁니다.
+    <br>
+    함께 협력하고 아이디어를 나누며 더 큰 가치를 만들어 나갈 수 있는 기회를 환영합니다.
   </p>
 </div>
