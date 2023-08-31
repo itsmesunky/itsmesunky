@@ -26,13 +26,11 @@
 
 <br>
 
-# 🏠Blog & Contact
+# 🏠Blog
 <div>
   <a href="https://itsmesunky.tistory.com" target="blank">
     <img src="https://img.shields.io/badge/TISTORY-FF5A4A?style=flat&logo=tistory&logoColor=white"/>
   </a>
- 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsmesunky@gmail.com)](mailto:itsmesunky@gmail.com)
 </div>
 
 <br>
