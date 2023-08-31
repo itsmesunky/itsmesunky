@@ -35,7 +35,7 @@
 
 <br>
 
-# 🙋‍♂️Introduce
+# 🙋‍♂️Introduction
 <div>
   <p style="font-family: 'Nanum Gothic'">
     안녕하세요!
