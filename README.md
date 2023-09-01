@@ -39,7 +39,7 @@
 # 🙋‍♂️Introduction
 <div>
   <p style="font-family: 'Nanum Gothic'">
-    안녕하세요! Web 공간을 무한한 가능성으로 채우고자 하는 웹 개발자 <b>Sunky</b>입니다.
+    안녕하세요! Web 공간을 무한한 가능성으로 채우고자 하는 웹 개발자 <b><i>Sunky</i></b>입니다.
     <br>
     코드의 힘을 활용하여 새로운 아이디어를 현실로 만드는 것에 흥미와 열정을 가지고 있습니다.
     <br>
