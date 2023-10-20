@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" style="width:100%; height:80%;"/>
+<img src="https://media.tenor.com/FlH9zzj7ZIUAAAAC/pixel-art-anasabdin.gif" style="width:100%; height:80%;"/>
 
 <div>
  <a href="https://hits.seeyoufarm.com">
