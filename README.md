@@ -22,12 +22,11 @@
 ### 스타일링
 ![Tech Stack](https://skillicons.dev/icons?i=scss,styledcomponents,emotion&theme=dark&perline=7)
 
-## 📌 연락처
+## 📌 포트폴리오 및 블로그
 <div>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-2E2E2E?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/iamsunky/1286451dc61180c59f32df7ec9b8ca76)
 [![Blog](https://img.shields.io/badge/BLOG-444444?style=for-the-badge&logo=tistory&logoColor=white)](https://itsmesunky.tistory.com)
-[![Email](https://img.shields.io/badge/EMAIL-3B3B3B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmesunky@gmail.com)
 
 </div>
 
