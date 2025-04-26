@@ -20,7 +20,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=7)
 
 ### 스타일링
-![Tech Stack](https://skillicons.dev/icons?i=scss,styledcomponents,emotion&theme=dark&perline=7)
+![Tech Stack](https://skillicons.dev/icons?i=scss,styledcomponents,emotion,tailwind&theme=dark&perline=7)
 
 ## 📌 포트폴리오 및 블로그
 <div>
